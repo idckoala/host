@@ -1,0 +1,71 @@
+{
+    "version": 3.3,
+    "message": "
+_________________________
+อัพเดทไฟล์ 3.3 แอป 443 VPN
+_________________________
+🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
+🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
+🚀 เพิ่ม ᴛʜ ᴅᴛᴀᴄ ɪᴅ
+_________________________
+☎️ ติดต่อแอดมิน
+  • ғʙ : เจฟ.เจฟ
+  • ʟɪɴᴇ : ɢᴏᴊ5516",
+    "data": [
+    {
+    "name": "Thailand 1 TRUE NOPRO 🎮",
+    "content": "vless://idcboomzvpn2@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the2.idc.boomzvpn.cloud&path=/#TRUE-NOPRO-TRUE1"
+    },{
+    "name": "Thailand 2 TRUE NOPRO 🎮",
+    "content": "vless://idcboomzvpn2@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the2.idc.boomzvpn.cloud&path=/#TRUE-NOPRO-TRUE2"
+    },{
+    "name": "Thailand 3 TRUE NOPRO 🎮",
+    "content": "vless://idcboomzvpn2@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the2.idc.boomzvpn.cloud&path=/#TRUE-NOPRO-TRUE3"
+    },{
+    "name": "Thailand 4 TRUE SOCIAL 🎮",
+    "content": "vless://idcboomzvpn1@the1.idc.boomzvpn.cloud:443?security=tls&encryption=none&type=tcp&path=/&sni=www.facebook.com&fp=chrome&headerType=http&alpn=h2,h3,http/1.1#TRUE SOCIAL-TRUES1"
+    },{
+    "name": "Thailand 5 TRUE SOCIAL 🎮",
+    "content": "vless://idcboomzvpn1@the1.idc.boomzvpn.cloud:443?security=tls&encryption=none&type=tcp&path=/&sni=www.facebook.com&fp=chrome&headerType=http&alpn=h2,h3,http/1.1#TRUE SOCIAL-TRUES1"
+    },{
+    "name": "Thailand 6 TRUE SOCIAL 🎮",
+    "content": "vless://idcboomzvpn1@the1.idc.boomzvpn.cloud:443?security=tls&encryption=none&type=tcp&path=/&sni=www.facebook.com&fp=chrome&headerType=http&alpn=h2,h3,http/1.1#TRUE SOCIAL-TRUES1"
+    },{
+    "name": "Thailand 1 AIS PLAY 64K 🎮",
+    "content": "vless://idcboomzvpnais1@the1.idc.boomzvpn.cloud:80?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#AIS-PLAY-TH-AIS1"
+    },{
+    "name": "Thailand 2 AIS PLAY 64K 🎮",
+    "content": "vless://idcboomzvpn2@www.opensignal.com.the2.idc.boomzvpn.cloud:80?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#AIS-PLAY-AIS2"
+    },{
+    "name": "Thailand 3 AIS PLAY 64K 🎮",
+    "content": "vless://idcboomzvpnais1@the1.idc.boomzvpn.cloud:80?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#AIS-PLAY-TH-AIS1"
+    },{
+    "name": "Thailand 4 AIS PLAY 64K 🎮",
+    "content": "vless://idcboomzvpn2@www.opensignal.com.the2.idc.boomzvpn.cloud:80?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#AIS-PLAY-AIS2"
+    },{
+    "name": "Thailand 5 AIS PLAY 64K 🎮",
+    "content": "vless://idcboomzvpnais1@the1.idc.boomzvpn.cloud:80?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#AIS-PLAY-TH-AIS1"
+    },{
+    "name": "Thailand 6 AIS PLAY 64K 🎮",
+    "content": "vless://idcboomzvpn2@www.opensignal.com.the2.idc.boomzvpn.cloud:80?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/&headerType=http#AIS-PLAY-AIS2"
+    },{
+    "name": "Thailand 1 DTAC TEUEID 🎮",
+    "content": "vless://koalav2@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the11.boomzvpn.cloud&path=/#TRUE-NOPRO-TH-443v2"
+    },{
+    "name": "Thailand 2 DTAC TEUEID 🎮",
+    "content": "vless://koalav4@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the22.boomzvpn.cloud&path=/#TRUE-NOPRO-TH-443v4"
+    },{
+    "name": "Thailand 3 DTAC TEUEID 🎮",
+    "content": "vless://koalav2@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the11.boomzvpn.cloud&path=/#TRUE-NOPRO-TH-443v2"
+    },{
+    "name": "Thailand 4 DTAC TEUEID 🎮",
+    "content": "vless://koalav4@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the22.boomzvpn.cloud&path=/#TRUE-NOPRO-TH-443v4"
+    },{
+    "name": "Thailand 5 DTAC TEUEID 🎮",
+    "content": "vless://koalav4@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the22.boomzvpn.cloud&path=/#TRUE-NOPRO-TH-443v4"
+    },{
+    "name": "Thailand 6 DTAC TEUEID 🎮",
+    "content": "vless://koalav2@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.the11.boomzvpn.cloud&path=/#TRUE-NOPRO-TH-443v2"
+    }
+    ]
+    }
