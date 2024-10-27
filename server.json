@@ -1,8 +1,8 @@
 {
-    "version": 3.9,
+    "version": 4.0,
     "message": "
 _________________________
-อัพเดทไฟล์ 3.9 แอป 443 VPN
+อัพเดทไฟล์ VIP แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -13,7 +13,7 @@ _________________________
   • ʟɪɴᴇ : ɢᴏᴊ5516",
     "data": [
     {
-    "name": "Thailand SG_1 TRUE NOPRO 🎮",
+    "name": "Singapore SG_1 TRUE NOPRO 🎮",
     "content": "vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_e353907@www.opensignal.com:80?security=none&encryption=none&type=ws&host=www.opensignal.com.sg1.vless.site&path=/vless#TRUE SG"
     },{
     "name": "Thailand TH_2 TRUE NOPRO 🎮",
@@ -40,7 +40,7 @@ _________________________
     "name": "Thailand TH_9 TRUE SOCIAL 🎮",
     "content": "vless://66120644-20e2-434e-bb6b-cf19f0b92ebe@www.opensignal.com.th2.boomzvpn.cloud:443?security=tls&encryption=none&type=grpc&sni=facebook.com&fp=chrome&serviceName=vless-grpc#443 SOCIAL"
     },{
-    "name": "Thailand TH_1 AIS PLAY 64K 🎮",
+    "name": "Singapore TH_1 AIS PLAY 64K 🎮",
     "content": "vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_e353907@sg1.vless.site:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#TRUE SG"
     },{
     "name": "Thailand TH_2 AIS PLAY 64K 🎮",
