@@ -1,8 +1,8 @@
 {
-    "version": 4.2,
+    "version": 4.3,
     "message": "
 _________________________
-อัพเดทไฟล์ 4.2 แอป 443 VPN
+อัพเดทไฟล์ 4.3 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -35,19 +35,10 @@ _________________________
     "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-8 TRUE SOCIAL 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th1.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
+    "content": "vless://SOCIALBOOM@www.opensignal.com.th3.idcai.boomzvpn.cloud:443/?type=ws&path=%2Fboomzvpn&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=facebook.com#TRUE-NOPRO-TH3%20SOCIAL"
     },{
     "name": "Thailand TH-9 TRUE SOCIAL 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th2.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
-    },{
-    "name": "Thailand TH-10 TRUE SOCIAL 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th3.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
-    },{
-    "name": "Thailand TH-11 TRUE SOCIAL 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th4.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
-    },{
-    "name": "Thailand TH-12 TRUE SOCIAL 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th5.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
+    "content": "vless://SOCIALBOOM@www.opensignal.com.th4.idcai.boomzvpn.cloud:443/?type=ws&path=%2F&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=facebook.com#TRUE-SOCIAL-TH4%20SOCIAL"
     },{
     "name": "Thailand TH-1 AIS PLAY 64K 🎮",
     "content": "vless://PLAYBOOM@www.opensignal.com.th1.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
@@ -75,9 +66,6 @@ _________________________
     },{
     "name": "Thailand TH-9 AIS PLAY 64K 🎮",
     "content": "vless://PLAYBOOM@www.opensignal.com.th4.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
-    },{
-    "name": "Thailand TH-10 AIS PLAY 64K 🎮",
-    "content": "vless://PLAYBOOM@www.opensignal.com.th5.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     }
     ]
     }
