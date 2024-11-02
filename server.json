@@ -1,8 +1,8 @@
 {
-    "version": 4.1,
+    "version": 4.2,
     "message": "
 _________________________
-อัพเดทไฟล์ 4.1 แอป 443 VPN
+อัพเดทไฟล์ 4.2 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -14,52 +14,70 @@ _________________________
     "data": [
     {
     "name": "Thailand TH-1 TRUE NOPRO 🎮",
-    "content": "vless://BotTRUE1@www.opensignal.com:2052?path=%2Ffb.boomzvpn&security=none&encryption=none&host=www.opensignal.com.th1.idc.boomzvpn.cloud&type=ws#BotTRUE1"
+    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-2 TRUE NOPRO 🎮",
-    "content": "vless://BotTRUE2@www.opensignal.com:2052?path=%2Ffb.boomzvpn&security=none&encryption=none&host=www.opensignal.com.th2.idc.boomzvpn.cloud&type=ws#BotTRUE2"
+    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th2.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-3 TRUE NOPRO 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com:80?path=%2Fvless&security=none&encryption=none&host=www.opensignal.com.th1.boomzvpn.cloud&type=ws#BotTRUE3"
+    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th3.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-4 TRUE NOPRO 🎮",
-    "content": "vless://dfaa9f35-de05-4852-ab75-3c3fb151b67f@www.opensignal.com:80?path=%2Fvless&security=none&encryption=none&host=www.opensignal.com.th2.boomzvpn.cloud&type=ws#BotTRUE4"
+    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th4.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-5 TRUE NOPRO 🎮",
-    "content": "vless://BotTRUE1@www.opensignal.com:2052?path=%2Ffb.boomzvpn&security=none&encryption=none&host=www.opensignal.com.th1.idc.boomzvpn.cloud&type=ws#BotTRUE1"
+    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th5.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
-    "name": "Thailand TH-6 TRUE nopro 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com:80?path=%2Fvless&security=none&encryption=none&host=www.opensignal.com.th1.boomzvpn.cloud&type=ws#BotTRUE3"
+    "name": "Thailand TH-6 TRUE NOPRO 🎮",
+    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
-    "name": "Thailand TH-7 TRUE SOCIAL 🎮",
-    "content": "vless://dfaa9f35-de05-4852-ab75-3c3fb151b67f@www.opensignal.com.th2.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SOCIAL2"
+    "name": "Thailand TH-7 TRUE NOPRO🎮",
+    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-8 TRUE SOCIAL 🎮",
     "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th1.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
     },{
+    "name": "Thailand TH-9 TRUE SOCIAL 🎮",
+    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th2.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
+    },{
+    "name": "Thailand TH-10 TRUE SOCIAL 🎮",
+    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th3.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
+    },{
+    "name": "Thailand TH-11 TRUE SOCIAL 🎮",
+    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th4.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
+    },{
+    "name": "Thailand TH-12 TRUE SOCIAL 🎮",
+    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th5.boomzvpn.cloud:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=facebook.com#TRUE-SICIAL1"
+    },{
     "name": "Thailand TH-1 AIS PLAY 64K 🎮",
-    "content": "vless://BotAIS1@www.opensignal.com.th1.idc.boomzvpn.cloud:8080?security=none&encryption=none&host=ww.speedtest.net&headerType=http&type=tcp#BotAIS1"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th1.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     },{
     "name": "Thailand TH-2 AIS PLAY 64K 🎮",
-    "content": "vless://BotAIS2@www.opensignal.com.th2.idc.boomzvpn.cloud:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#BotAIS2"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th2.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     },{
     "name": "Thailand TH-3 AIS PLAY 64K 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th1.boomzvpn.cloud:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BotAIS3"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th3.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     },{
     "name": "Thailand TH-4 AIS PLAY 64K 🎮",
-    "content": "vless://dfaa9f35-de05-4852-ab75-3c3fb151b67f@www.opensignal.com.th2.boomzvpn.cloud:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BotAIS4"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th4.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     },{
     "name": "Thailand TH-5 AIS PLAY 64K 🎮",
-    "content": "vless://BotAIS1@www.opensignal.com.th1.idc.boomzvpn.cloud:8080?security=none&encryption=none&host=ww.speedtest.net&headerType=http&type=tcp#BotAIS1"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th5.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     },{
     "name": "Thailand TH-6 AIS PLAY 64K 🎮",
-    "content": "vless://BotAIS2@www.opensignal.com.th2.idc.boomzvpn.cloud:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#BotAIS2"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th1.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     },{
     "name": "Thailand TH-7 AIS PLAY 64K 🎮",
-    "content": "vless://87eecead-cda4-4ad7-953f-5078fea69245@www.opensignal.com.th1.boomzvpn.cloud:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BotAIS3"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th2.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     },{
     "name": "Thailand TH-8 AIS PLAY 64K 🎮",
-    "content": "vless://dfaa9f35-de05-4852-ab75-3c3fb151b67f@www.opensignal.com.th2.boomzvpn.cloud:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#BotAIS4"
+    "content": "vless://PLAYBOOM@www.opensignal.com.th3.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
+    },{
+    "name": "Thailand TH-9 AIS PLAY 64K 🎮",
+    "content": "vless://PLAYBOOM@www.opensignal.com.th4.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
+    },{
+    "name": "Thailand TH-10 AIS PLAY 64K 🎮",
+    "content": "vless://PLAYBOOM@www.opensignal.com.th5.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
     }
     ]
     }
