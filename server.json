@@ -1,8 +1,8 @@
 {
-    "version": 4.4,
+    "version": 4.5,
     "message": "
 _________________________
-อัพเดทไฟล์ 4.3 แอป 443 VPN
+อัพเดทไฟล์ 4.5 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -14,25 +14,25 @@ _________________________
     "data": [
     {
     "name": "Thailand TH-1 TRUE NOPRO 🎮",
-    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    "content": "vless://NOPROBOOM@true.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-2 TRUE NOPRO 🎮",
-    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th2.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    "content": "vless://NOPROBOOM@true.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th2.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-3 TRUE NOPRO 🎮",
-    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th3.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    "content": "vless://NOPROBOOM@true.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th3.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-4 TRUE NOPRO 🎮",
-    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th4.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    "content": "vless://NOPROBOOM@true.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th4.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-5 TRUE NOPRO 🎮",
-    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th5.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    "content": "vless://NOPROBOOM@true.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th5.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-6 TRUE NOPRO 🎮",
-    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    "content": "vless://NOPROBOOM@true.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-7 TRUE NOPRO🎮",
-    "content": "vless://NOPROBOOM@www.opensignal.com:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    "content": "vless://NOPROBOOM@true.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th1.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     },{
     "name": "Thailand TH-8 TRUE SOCIAL 🎮",
     "content": "vless://SOCIALBOOM@www.opensignal.com.th3.idcai.boomzvpn.cloud:443/?type=ws&path=%2Fboomzvpn&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=facebook.com#TRUE-NOPRO-TH3%20SOCIAL"
