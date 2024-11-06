@@ -1,8 +1,8 @@
 {
-    "version": 4.5,
+    "version": 4.6,
     "message": "
 _________________________
-อัพเดทไฟล์ 4.5 แอป 443 VPN
+อัพเดทไฟล์ 4.6 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -66,6 +66,18 @@ _________________________
     },{
     "name": "Thailand TH-9 AIS PLAY 64K 🎮",
     "content": "vless://PLAYBOOM@www.opensignal.com.th4.idcai.boomzvpn.cloud:8080/?type=tcp&path=%2Fboomzvpn&host=ww.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1%20PLAY"
+    } ,{
+    "name": "Thailand TH-1 DTAC NOPRO 🎮",
+    "content": "vless://NOPROBOOM@dtac.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th2.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    },{
+    "name": "Thailand TH-2 DTAC NOPRO 🎮",
+    "content": "vless://NOPROBOOM@dtac.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th3.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    },{
+    "name": "Thailand TH-3 DTAC NOPRO 🎮",
+    "content": "vless://NOPROBOOM@dtac.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th4.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
+    },{
+    "name": "Thailand TH-4 DTAC NOPRO 🎮",
+    "content": "vless://NOPROBOOM@dtac.boomzvpn.cloud:2052?security=none&encryption=none&type=ws&host=www.opensignal.com.th5.idcai.boomzvpn.cloud&path=/boomzvpn#TRUE-NOPRO-TH1 NOPRO"
     }
     ]
     }
