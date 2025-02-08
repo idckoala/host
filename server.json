@@ -1,8 +1,8 @@
 {
-    "version": 5.4,
+    "version": 5.5,
     "message": "
 _________________________
-อัพเดทไฟล์ 5.4 แอป 443 VPN
+อัพเดทไฟล์ 5.5 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -14,49 +14,49 @@ _________________________
     "data": [
     {
     "name": "Thailand TRUE ID TH1 🎮",
-    "content": "vless://trueid@support.canvas.snapchat.com:2052?security=none&encryption=none&type=ws&host=th1.ekrom.my.id&path=/boomzvpn#TRUE-TH1-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     },{
     "name": "Thailand TRUE ID TH2 🎮",
-    "content": "vless://trueid@support.canvas.snapchat.com:2052?security=none&encryption=none&type=ws&host=th2.ekrom.my.id&path=/boomzvpn#TRUE-TH2-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     },{
     "name": "Thailand TRUE ID TH3 🎮",
-    "content": "vless://trueid@support.canvas.snapchat.com:2052?security=none&encryption=none&type=ws&host=th3.ekrom.my.id&path=/boomzvpn#TRUE-TH3-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     },{
-    "name": "Thailand TRUE VIU TH4 🎮",
-    "content": "vless://trueid@help.viu.com:2052?security=none&encryption=none&type=ws&host=th4.ekrom.my.id&path=/boomzvpn#TRUE-TH4-ID1"
+    "name": "Thailand TRUE ID TH4 🎮",
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
     },{
-    "name": "Thailand TRUE VIU TH5 🎮",
-    "content": "vless://trueid@help.viu.com:2052?security=none&encryption=none&type=ws&host=th2.ekrom.my.id&path=/boomzvpn#TRUE-TH2-ID1"
+    "name": "Thailand TRUE ID TH5 🎮",
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
     },{
     "name": "Thailand AIS PLAY 64K TH1 🎮",
-    "content": "vless://play@45.154.26.78:80/?type=tcp&path=%2Fboomzvpn&host=www.speedtest.net&headerType=http&security=none#AIS-TH1-PLAY2"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@th1.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS1"
     },{
     "name": "Thailand AIS PLAY 64K TH2 🎮",
-    "content": "vless://play@141.98.18.155:80/?type=tcp&path=%2Fboomzvpn&host=www.speedtest.net&headerType=http&security=none#AIS-TH2-PLAY2"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@th1.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS1"
     },{
     "name": "Thailand AIS PLAY 64K TH3 🎮",
-    "content": "vless://play@45.154.26.85:80/?type=tcp&path=%2Fboomzvpn&host=www.speedtest.net&headerType=http&security=none#AIS-TH3-PLAY2"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@th1.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS1"
     },{
     "name": "Thailand AIS PLAY 64K TH4 🎮",
-    "content": "vless://play@45.154.26.63:80/?type=tcp&path=%2Fboomzvpn&host=www.speedtest.net&headerType=http&security=none#AIS-TH4-PLAY2"
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@th2.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS2"
     },{
     "name": "Thailand AIS PLAY 64K TH5 🎮",
-    "content": "vless://play@45.154.26.85:80/?type=tcp&path=%2Fboomzvpn&host=www.speedtest.net&headerType=http&security=none#AIS-TH3-PLAY2"
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@th2.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS2"
     },{
     "name": "Thailand TH-1 DTAC โปรตามใจ 🎮",
-    "content": "vless://trueid@dl.dir.freefiremobile.com:2052?security=none&encryption=none&type=ws&host=th1.ekrom.my.id&path=/boomzvpn#TRUE-TH1-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     },{
     "name": "Thailand TH-2 DTAC โปรตามใจ 🎮",
-    "content": "vless://trueid@dl.dir.freefiremobile.com:2052?security=none&encryption=none&type=ws&host=th2.ekrom.my.id&path=/boomzvpn#TRUE-TH2-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     },{
     "name": "Thailand TH-3 DTAC โปรตามใจ 🎮",
-    "content": "vless://trueid@dl.dir.freefiremobile.com:2052?security=none&encryption=none&type=ws&host=th3.ekrom.my.id&path=/boomzvpn#TRUE-TH3-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     },{
     "name": "Thailand TH-4 DTAC โปรตามใจ 🎮",
-    "content": "vless://trueid@dl.dir.freefiremobile.com:2052?security=none&encryption=none&type=ws&host=th4.ekrom.my.id&path=/boomzvpn#TRUE-TH4-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     },{
     "name": "Thailand TH-5 DTAC โปรตามใจ 🎮",
-    "content": "vless://trueid@dl.dir.freefiremobile.com:2052?security=none&encryption=none&type=ws&host=th4.ekrom.my.id&path=/boomzvpn#TRUE-TH4-ID1"
+    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
     }
     ]
     }
