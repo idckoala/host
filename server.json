@@ -1,8 +1,8 @@
 {
-    "version": 5.5,
+    "version": 5.6,
     "message": "
 _________________________
-อัพเดทไฟล์ 5.5 แอป 443 VPN
+อัพเดทไฟล์ 5.6 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -14,49 +14,58 @@ _________________________
     "data": [
     {
     "name": "Thailand TRUE ID TH1 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=idc2.ekrom.my.id&path=/vless#TRUE111"
     },{
     "name": "Thailand TRUE ID TH2 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=idc2.ekrom.my.id&path=/vless#TRUE111"
     },{
     "name": "Thailand TRUE ID TH3 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://91277f8e-e426-4bd8-8300-5b9707400cd9@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=idc3.ekrom.my.id&path=/vless#TRUE222"
     },{
     "name": "Thailand TRUE ID TH4 🎮",
-    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
+    "content": "vless://91277f8e-e426-4bd8-8300-5b9707400cd9@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=idc3.ekrom.my.id&path=/vless#TRUE222"
     },{
-    "name": "Thailand TRUE ID TH5 🎮",
-    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
+    "name": "Thailand TRUE VIU TH5 🎮",
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@help.viu.com:80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
+    },{
+    "name": "Thailand TRUE VIU TH6 🎮",
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@help.viu.com:80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
+    },{
+    "name": "Thailand TRUE ZOOM TH7 🎮",
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@support.zoom.us:80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
+    },{
+    "name": "Thailand TRUE ZOOM TH8 🎮",
+    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@support.zoom.using :80?security=none&encryption=none&type=ws&host=th2.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE2"
     },{
     "name": "Thailand AIS PLAY 64K TH1 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@th1.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@idc2.ekrom.my.id:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless#AIS111"
     },{
     "name": "Thailand AIS PLAY 64K TH2 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@th1.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@idc2.ekrom.my.id:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless#AIS111"
     },{
     "name": "Thailand AIS PLAY 64K TH3 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@th1.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@idc2.ekrom.my.id:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless#AIS111"
     },{
     "name": "Thailand AIS PLAY 64K TH4 🎮",
-    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@th2.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS2"
+    "content": "vless://91277f8e-e426-4bd8-8300-5b9707400cd9@idc3.ekrom.my.id:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless#AIS222"
     },{
     "name": "Thailand AIS PLAY 64K TH5 🎮",
-    "content": "vless://0dbb3f7a-4cce-4053-9ca9-00cc04812c52@th2.v2ray.icd.ssh.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless/#AIS2"
+    "content": "vless://91277f8e-e426-4bd8-8300-5b9707400cd9@idc3.ekrom.my.id:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless#AIS222"
     },{
     "name": "Thailand TH-1 DTAC โปรตามใจ 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@dl.cvs.freefiremobile.com:80?security=none&encryption=none&type=ws&host=idc2.ekrom.my.id&path=/vless#TRUE111"
     },{
     "name": "Thailand TH-2 DTAC โปรตามใจ 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@dl.cvs.freefiremobile.com:80?security=none&encryption=none&type=ws&host=idc2.ekrom.my.id&path=/vless#TRUE111"
     },{
     "name": "Thailand TH-3 DTAC โปรตามใจ 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://eb1f1838-cf2b-41fe-8eaa-a1452e10371e@dl.cvs.freefiremobile.com:80?security=none&encryption=none&type=ws&host=idc2.ekrom.my.id&path=/vless#TRUE111"
     },{
     "name": "Thailand TH-4 DTAC โปรตามใจ 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://91277f8e-e426-4bd8-8300-5b9707400cd9@dl.cvs.freefiremobile.com:80?security=none&encryption=none&type=ws&host=idc3.ekrom.my.id&path=/vless#TRUE222"
     },{
     "name": "Thailand TH-5 DTAC โปรตามใจ 🎮",
-    "content": "vless://bf5888e3-3ebf-4547-9682-8d1af6b9205d@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.v2ray.icd.ssh.ekrom.my.id&path=/vless/#TRUE1"
+    "content": "vless://91277f8e-e426-4bd8-8300-5b9707400cd9@dl.cvs.freefiremobile.com:80?security=none&encryption=none&type=ws&host=idc3.ekrom.my.id&path=/vless#TRUE222"
     }
     ]
     }
