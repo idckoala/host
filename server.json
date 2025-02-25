@@ -1,8 +1,8 @@
 {
-    "version": 5.7,
+    "version": 5.8,
     "message": "
 _________________________
-อัพเดทไฟล์ 5.7 แอป 443 VPN
+อัพเดทไฟล์ 5.8 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -30,7 +30,7 @@ _________________________
     },{
     "name": "Thailand TRUE ID TH6 🎮",
     "content": "vless://7024a56b-5acd-4e47-a740-37c082c146b6@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th2.idcai.ekrom.my.id&path=/vless#true"
-    }, {
+    },{
     "name": "Thailand TRUE ZOOM TH7 🎮",
     "content": "vless://7024a56b-5acd-4e47-a740-37c082c146b6@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th2.idcai.ekrom.my.id&path=/vless#true"
     },{
