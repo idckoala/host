@@ -1,8 +1,8 @@
 {
-    "version": 6.1,
+    "version": 6.2,
     "message": "
 _________________________
-อัพเดทไฟล์ 6.1 แอป 443 VPN
+อัพเดทไฟล์ 6.2 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -13,35 +13,35 @@ _________________________
   • ʟɪɴᴇ : ɢᴏᴊ5516",
     "data": [
     {
-    "name": "Thailand TH_1 TRUE ID 🎮",
-    "content": "vless://4964ec7a-f30a-4385-a5c7-d59f5f5ff5bc@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.idcai.ekrom.my.id&path=/vless#TRUE1"
+    "name": "Thailand TH_1 TRUE ZOOM 🎮",
+    "content": "vless://SIMTRUE@support.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/simvpn#TRUE-VIU"
     },{
-    "name": "Thailand TH_2 TRUE ID 🎮",
-    "content": "vless://bdac6cae-1310-49fe-b404-fecc52ba2696@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/vless/#TRUE2"
+    "name": "Thailand TH_2 TRUE ZOOM 🎮",
+    "content": "vless://SIMTRUE@support.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/simvpn#TRUE-VIU"
     },{
-    "name": "Thailand TH_3 TRUE ID 🎮",
-    "content": "vless://73279f29-e957-4bda-8181-fa3a05a48529@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th2.idc.starfishvpn.site&path=/vless/#TRUE3"
+    "name": "Thailand TH_3 TRUE ZOOM 🎮",
+    "content": "vless://SIMTRUE@support.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/simvpn#TRUE-VIU"
     },{
     "name": "Thailand TH_4 TRUE ID 🎮",
-    "content": "vless://53b5d2d5-7a82-48b5-9674-ac3563779630@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th3.idc.starfishvpn.site&path=/vless/#TRUE4"
+    "content": "vless://SIMTRUE@support.canvas.snapchat.com:2052?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/simvpn#TRUE-VIU"
     },{
     "name": "Thailand TH_5 TRUE ID 🎮",
-    "content": "vless://bdac6cae-1310-49fe-b404-fecc52ba2696@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/vless/#TRUE2"
+    "content": "vless://SIMTRUE@support.canvas.snapchat.com:2052?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/simvpn#TRUE-VIU"
     },{
     "name": "Thailand TH_1 AIS PLAY 64K 🎮",
-    "content": "vless://4964ec7a-f30a-4385-a5c7-d59f5f5ff5bc@th1.idcai.ekrom.my.id:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless#AIS1"
+    "content": "vless://SIMAIS@103.40.119.38:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/simvpn&headerType=http#AIS-PLAY"
     },{
     "name": "Thailand TH_2 AIS PLAY 64K 🎮",
-    "content": "vless://bdac6cae-1310-49fe-b404-fecc52ba2696@th1.idc.starfishvpn.site:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless/#AIS2"
+    "content": "vless://SIMAIS@103.40.119.38:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/simvpn&headerType=http#AIS-PLAY"
     },{
     "name": "Thailand TH_3 AIS PLAY 64K 🎮",
-    "content": "vless://73279f29-e957-4bda-8181-fa3a05a48529@th2.idc.starfishvpn.site:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless/#AIS3"
+    "content": "vless://SIMAIS@103.40.119.38:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/simvpn&headerType=http#AIS-PLAY"
     },{
-    "name": "Thailand TH_4 AIS PLAY 64K 🎮",
-    "content": "vless://53b5d2d5-7a82-48b5-9674-ac3563779630@th3.idc.starfishvpn.site:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless/#AIS4"
+    "name": "Thailand TH_4 AIS MY NET 🎮",
+    "content": "vless://SIMTRUE@104.18.5.45:2052?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/simvpn#TRUE-VIU"
     },{
-    "name": "Thailand TH_5 AIS PLAY 64K 🎮",
-    "content": "vless://73279f29-e957-4bda-8181-fa3a05a48529@th2.idc.starfishvpn.site:80?security=none&encryption=none&type=ws&host=speedtest.adslthailand.com&path=/vless/#AIS3"
+    "name": "Thailand TH_5 AIS MY NET 🎮",
+    "content": "vless://SIMTRUE@104.18.5.45:2052?security=none&encryption=none&type=ws&host=th1.idc.starfishvpn.site&path=/simvpn#TRUE-VIU"
     },{
     "name": "Thailand TH_1 DTAC Gaming 🎮",
     "content": "vless://4964ec7a-f30a-4385-a5c7-d59f5f5ff5bc@dl.dir.freefiremobile.com:80?security=none&encryption=none&type=ws&host=th1.idcai.ekrom.my.id&path=/vless#TRUE1"
