@@ -1,8 +1,8 @@
 {
-    "version": 6.3,
+    "version": 6.4,
     "message": "
 _________________________
-อัพเดทไฟล์ 6.3 แอป 443 VPN
+อัพเดทไฟล์ 6.4 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -43,13 +43,13 @@ _________________________
     "name": "Thailand TH_5 AIS MY NET 🎮",
     "content": "vless://boomzvpn@104.18.5.45:2052?security=none&encryption=none&type=ws&host=the2.idc.ekrom.my.id&path=/boomzvpn#TRUE-NO-PRO-TH2"
     },{
-    "name": "Thailand TH_1 DTAC Gaming 🎮",
+    "name": "Thailand TH_1 DTAC Twitter 🎮",
     "content": "vless://boomzvpn@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the2.idc.ekrom.my.id&path=/boomzvpn#TRUE-NO-PRO-TH2"
     },{
-    "name": "Thailand TH_2 DTAC Gaming 🎮",
+    "name": "Thailand TH_2 DTAC Twitter 🎮",
     "content": "vless://boomzvpn@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the2.idc.ekrom.my.id&path=/boomzvpn#TRUE-NO-PRO-TH2"
     },{
-    "name": "Thailand TH_3 DTAC Gaming 🎮",
+    "name": "Thailand TH_3 DTAC Twitter 🎮",
     "content": "vless://boomzvpn@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the2.idc.ekrom.my.id&path=/boomzvpn#TRUE-NO-PRO-TH2"
     }
     ]
