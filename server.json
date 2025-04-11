@@ -20,7 +20,7 @@ _________________________
     "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@support.zoom.us:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-ZOOM"
     },{
     "name": "Thailand TH_3 TRUE Viber 4Mbps 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@lp.viber.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-Viber"
+    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@lp.viber.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
     },{
     "name": "Thailand TH_4 TRUE Viber 4Mbps 🎮",
     "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@lp.viber.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-Viber"
@@ -29,19 +29,19 @@ _________________________
     "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-ID"
     },{
     "name": "Thailand TH_6 TRUE ID 4Mbps 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-ID"
+    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
     },{
     "name": "Thailand TH_5 TRUE Twitter 4Mbps 🎮",
     "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@cf.twitter.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-T"
     },{
     "name": "Thailand TH_6 TRUE Twitter 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@cf.twitter.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-T"
+    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@cf.twitter.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
     },{
     "name": "Thailand TH_1 AIS PLAY 64K 🎮",
     "content": "vless://ec1e93b5-596d-4760-a8ce-ae14d8c2fea7@the4.idc.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#Tha1 AIS-PLaY"
     },{
     "name": "Thailand TH_2 AIS PLAY 64K 🎮",
-    "content": "vless://ec1e93b5-596d-4760-a8ce-ae14d8c2fea7@the4.idc.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#Tha1 AIS-PLaY"
+    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@the5.idc.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#Tha1%20AIS-PLaY"
     },{
     "name": "Thailand TH_3 AIS PLAY 64K 🎮",
     "content": "vless://boomzvpn@103.40.119.38:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/boomzvpn&headerType=http#AIS-PLAY-TH1"
@@ -53,13 +53,12 @@ _________________________
     "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@104.18.5.45:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 My-NO-PRO"
     },{
     "name": "Thailand TH_1 DTAC Twitter 🎮",
-    "content": "vless://boomzvpn@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the2.idc.ekrom.my.id&path=/boomzvpn#TRUE-NO-PRO-TH2"
+    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@help.twitter.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
     },{
     "name": "Thailand TH_2 DTAC Twitter 🎮",
-    "content": "vless://boomzvpn@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the2.idc.ekrom.my.id&path=/boomzvpn#TRUE-NO-PRO-TH2"
+    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@help.twitter.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
     },{
     "name": "Thailand TH_3 DTAC Twitter 🎮",
-    "content": "vless://boomzvpn@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the2.idc.ekrom.my.id&path=/boomzvpn#TRUE-NO-PRO-TH2"
+    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@help.twitter.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
     }
     ]
-    }
