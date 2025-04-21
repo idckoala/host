@@ -1,8 +1,8 @@
 {
-    "version": 7.1,
+    "version": 7.2,
     "message": "
 _________________________
-อัพเดทไฟล์ 7.1 แอป 443 VPN
+อัพเดทไฟล์ 7.2 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -13,53 +13,50 @@ _________________________
   • ʟɪɴᴇ : ɢᴏᴊ5516",
     "data": [
     {
-    "name": "Thailand TH_1 TRUE ZOOM 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@support.zoom.us:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-ZOOM"
+    "name": "Thailand 01 TRUE เรียน ZOOM 🎮",
+    "content": "vless://truezoom@support.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
     },{
-    "name": "Thailand TH_2 TRUE ZOOM 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@support.zoom.us:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
+    "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
+    "content": "vless://truezoom@support.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
     },{
-    "name": "Thailand TH_3 TRUE Viber 4Mbps 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@lp.viber.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-Viber"
+    "name": "Thailand 03 TRUE Viber 4Mbps 🎮",
+    "content": "vless://trueviber@help.viber.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-Viber-TH1"
     },{
-    "name": "Thailand TH_4 TRUE Viber 4Mbps 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@lp.viber.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
+    "name": "Thailand 04 TRUE Viber 4Mbps 🎮",
+    "content": "vless://trueviber@help.viber.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-Viber-TH1"
     },{
-    "name": "Thailand TH_5 TRUE ID 4Mbps 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-ID"
+    "name": "Thailand 05 TRUE ID 4Mbps 🎮",
+    "content": "vless://trueid@104.18.62.229:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ID-PLUS-TH1"
     },{
-    "name": "Thailand TH_6 TRUE ID 4Mbps 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@support.canvas.snapchat.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
+    "name": "Thailand 06 TRUE ID 4Mbps 🎮",
+    "content": "vless://trueid@104.18.62.229:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ID-PLUS-TH1"
     },{
-    "name": "Thailand TH_7 TRUE Twitter 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@cf.twitter.com:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 TRUE-T"
+    "name": "Thailand 07 TRUE FB SOCIAL🎮",
+    "content": "vless://truegaming@the3.idc.ekrom.my.id:443/?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fbcdn.net#TRUE-FB-Gaming-TH1"
     },{
-    "name": "Thailand TH_8 TRUE Twitter 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@cf.twitter.com:80?security=none&encryption=none&type=ws&host=the5.idc.ekrom.my.id&path=/vless#Tha1 TRUE"
+    "name": "Thailand 08 TRUE FB SCIAL 🎮",
+    "content": "vless://truegaming@the3.idc.ekrom.my.id:443/?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fbcdn.net#TRUE-FB-Gaming-TH1"
     },{
-    "name": "Thailand TH_1 AIS PLAY 64K 🎮",
-    "content": "vless://ec1e93b5-596d-4760-a8ce-ae14d8c2fea7@the4.idc.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#Tha1 AIS-PLaY"
+    "name": "Thailand 01 AIS PLAY 64K 🎮",
+    "content": "vless://aisplay@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-PLAY-TH1"
     },{
-    "name": "Thailand TH_2 AIS PLAY 64K 🎮",
-    "content": "vless://ec1e93b5-596d-4760-a8ce-ae14d8c2fea7@the4.idc.ekrom.my.id:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#Tha1 AIS-PLaY"
+    "name": "Thailand 02 AIS PLAY 64K 🎮",
+    "content": "vless://aisplay@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-PLAY-TH1"
     },{
-    "name": "Thailand TH_3 AIS PLAY 64K 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@the5.idc.ekrom.my.id:80?path=%2Fvless&security=&encryption=none&host=www.speedtest.net&type=ws#Tha1%20AIS-PLaY"
+    "name": "Thailand 03 AIS ซิม MY โนโปร NET 🎮",
+    "content": "vless://mynet@cdn.cara.app:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
     },{
-    "name": "Thailand TH_4 AIS ซิม MY โนโปร NET  🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@104.18.5.45:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 My-NO-PRO"
-    },{
-    "name": "Thailand TH_5 AIS ซิม MY โนโปร NET 🎮",
-    "content": "vless://c5bb9df5-14e5-44ff-9209-7ce65e622c2a@104.18.5.45:80?security=none&encryption=none&type=ws&host=the4.idc.ekrom.my.id&path=/vless#Tha2 My-NO-PRO"
+    "name": "Thailand 04 AIS ซิม MY โนโปร NET  🎮",
+    "content": "vless://mynet@cdn.cara.app:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
     },{
     "name": "Thailand TH_1 DTAC Twitter 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@help.twitter.com:80?path=%2Fvless&security=&encryption=none&host= the5.idc.ekrom.my.id&type=ws#Tha1%20AIS-PLaY"
+    "content": "vless://mynet@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
     },{
     "name": "Thailand TH_2 DTAC Twitter 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@help.twitter.com:80?path=%2Fvless&security=&encryption=none&host= the5.idc.ekrom.my.id&type=ws#Tha1%20AIS-PLaY"
+    "content": "vless://mynet@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
     },{
     "name": "Thailand TH_3 DTAC Twitter 🎮",
-    "content": "vless://7923a45a-944a-4055-8818-31cffa79a3db@help.twitter.com:80?path=%2Fvless&security=&encryption=none&host= the5.idc.ekrom.my.id&type=ws#Tha1%20AIS-PLaY"
+    "content": "vless://mynet@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
     }
     ]
     }
