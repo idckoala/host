@@ -1,8 +1,8 @@
 {
-    "version": 7.2,
+    "version": 7.3,
     "message": "
 _________________________
-อัพเดทไฟล์ 7.2 แอป 443 VPN
+อัพเดทไฟล์ 7.3 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -14,34 +14,28 @@ _________________________
     "data": [
     {
     "name": "Thailand 01 TRUE เรียน ZOOM 🎮",
-    "content": "vless://truezoom@support.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
+    "content": "vless://truezoom@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
-    "content": "vless://truezoom@support.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
+    "content": "vless://truezoom@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 03 TRUE Viber 4Mbps 🎮",
-    "content": "vless://trueviber@help.viber.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-Viber-TH1"
+    "content": "vless://trueviber@help.viber.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-Viber-TH1"
     },{
     "name": "Thailand 04 TRUE Viber 4Mbps 🎮",
     "content": "vless://trueviber@help.viber.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-Viber-TH1"
     },{
-    "name": "Thailand 05 TRUE ID 4Mbps 🎮",
-    "content": "vless://trueid@104.18.62.229:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ID-PLUS-TH1"
-    },{
-    "name": "Thailand 06 TRUE ID 4Mbps 🎮",
-    "content": "vless://trueid@104.18.62.229:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ID-PLUS-TH1"
-    },{
-    "name": "Thailand 07 TRUE FB SOCIAL🎮",
+    "name": "Thailand 05 TRUE FB SOCIAL🎮",
     "content": "vless://truegaming@the3.idc.ekrom.my.id:443/?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fbcdn.net#TRUE-FB-Gaming-TH1"
     },{
-    "name": "Thailand 08 TRUE FB SCIAL 🎮",
+    "name": "Thailand 06 TRUE FB SCIAL 🎮",
     "content": "vless://truegaming@the3.idc.ekrom.my.id:443/?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fbcdn.net#TRUE-FB-Gaming-TH1"
     },{
     "name": "Thailand 01 AIS PLAY 64K 🎮",
-    "content": "vless://aisplay@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-PLAY-TH1"
+    "content": "vless://aisplaythv@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-Play-THV1"
     },{
     "name": "Thailand 02 AIS PLAY 64K 🎮",
-    "content": "vless://aisplay@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-PLAY-TH1"
+    "content": "vless://aisplaythv@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-Play-THV1"
     },{
     "name": "Thailand 03 AIS ซิม MY โนโปร NET 🎮",
     "content": "vless://mynet@cdn.cara.app:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
