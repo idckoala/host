@@ -13,44 +13,35 @@ _________________________
   • ʟɪɴᴇ : ɢᴏᴊ5516",
     "data": [
     {
-    "name": "Thailand 01 TRUE เรียน ZOOM 🎮",
-    "content": "vless://truezoom@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
+    "name": "Thailand 01 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
-    "content": "vless://truezoom@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH1"
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
     },{
-    "name": "Thailand 03 TRUE Viber 4Mbps 🎮",
-    "content": "vless://trueviber@help.viber.us:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-Viber-TH1"
+    "name": "Thailand 03 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
     },{
-    "name": "Thailand 04 TRUE Viber 4Mbps 🎮",
-    "content": "vless://trueviber@help.viber.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-Viber-TH1"
+    "name": "Thailand 04 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
     },{
-    "name": "Thailand 05 TRUE FB SOCIAL🎮",
-    "content": "vless://truegaming@the3.idc.ekrom.my.id:443/?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fbcdn.net#TRUE-FB-Gaming-TH1"
-    },{
-    "name": "Thailand 06 TRUE FB SCIAL 🎮",
-    "content": "vless://truegaming@the3.idc.ekrom.my.id:443/?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fbcdn.net#TRUE-FB-Gaming-TH1"
+    "name": "Thailand 05 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 01 AIS PLAY 64K 🎮",
-    "content": "vless://aisplaythv@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-Play-THV1"
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
     },{
     "name": "Thailand 02 AIS PLAY 64K 🎮",
-    "content": "vless://aisplaythv@the3.idc.ekrom.my.id:8080/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=speedtest.net&headerType=http&security=none#AIS-Play-THV1"
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
     },{
-    "name": "Thailand 03 AIS ซิม MY โนโปร NET 🎮",
-    "content": "vless://mynet@cdn.cara.app:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
+    "name": "Thailand 03 AIS PLAY 64K 🎮",
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
     },{
-    "name": "Thailand 04 AIS ซิม MY โนโปร NET  🎮",
-    "content": "vless://mynet@cdn.cara.app:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
+    "name": "Thailand 04 AIS PLAY 64K  🎮",
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
     },{
-    "name": "Thailand TH_1 DTAC Twitter 🎮",
-    "content": "vless://mynet@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
-    },{
-    "name": "Thailand TH_2 DTAC Twitter 🎮",
-    "content": "vless://mynet@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
-    },{
-    "name": "Thailand TH_3 DTAC Twitter 🎮",
-    "content": "vless://mynet@help.twitter.com:2052?security=none&encryption=none&type=ws&host=the3.idc.ekrom.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-MY-TH1"
+    "name": "Thailand 05 AIS PLAY 64K  🎮",
+    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
     }
     ]
     }
