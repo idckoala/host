@@ -1,8 +1,8 @@
 {
-    "version": 7.5,
+    "version": 7.6,
     "message": "
 _________________________
-อัพเดทไฟล์ 7.5 แอป 443 VPN
+อัพเดทไฟล์ 7.6 แอป 443 VPN
 _________________________
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ᴢᴏᴏᴍ
 🚀 เพิ่ม ᴛʜ ᴀɪꜱ ᴘʟᴀʏ
@@ -19,10 +19,10 @@ _________________________
     "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 03 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
+    "content": "vless://f75a7ac3-3ea3-4cfb-873a-dd9b55de1477@support.zoom.us:80?security=none&encryption=none&type=ws&host=th2.idc.kolal.my.id&path=/vless/#TRUE-2"
     },{
     "name": "Thailand 04 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
+    "content": "vless://4ce33d10-28d3-408b-961f-09c5a10f065a@th3.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#AIS-TH3"
     },{
     "name": "Thailand 05 TRUE เรียนฟรี ZOOM 🎮",
     "content": "vless://truesocial@gomarketplacecontent-cf.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/koala#TRUE-ZOOM-TH1"
@@ -34,14 +34,13 @@ _________________________
     "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
     },{
     "name": "Thailand 03 AIS PLAY 64K 🎮",
-    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
+    "content": "vless://f75a7ac3-3ea3-4cfb-873a-dd9b55de1477@th2.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#AIS-2"
     },{
     "name": "Thailand 04 AIS PLAY 64K  🎮",
-    "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
+    "content": "vless://4ce33d10-28d3-408b-961f-09c5a10f065a@th3.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#AIS-TH3"
     },{
     "name": "Thailand 05 AIS PLAY 64K  🎮",
     "content": "vless://aisplay@th1.idc.kolal.my.id:8080?security=none&encryption=none&type=tcp&host=www.speedtest.net&path=/koala&headerType=http#AIS-PLAY-TH1"
     }
     ]
     }
-    
