@@ -1,8 +1,8 @@
 {
-    "version": 7.9,
+    "version": 8.0,
     "message": "
 _________________________
-อัพเดทไฟล์ 7.9 แอป 443 VPN
+อัพเดทไฟล์ 8.0 แอป 443 VPN
 _________________________
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ᴢᴏᴏᴍ
 🚀 เพิ่ม ᴛʜ ᴀɪꜱ ᴘʟᴀʏ
@@ -13,34 +13,34 @@ _________________________
     "data": [
     {
     "name": "Thailand 01 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH1"
-    },{
-    "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH2"
-    },{
-    "name": "Thailand 03 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH3"
-    },{
-    "name": "Thailand 04 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH4"
-    },{
-    "name": "Thailand 05 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH5"
-    },{
-    "name": "Thailand 01 AIS PLAY 64K 🎮",
     "content": "vless://Koala99@th1.ddns.kolal.my.id:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH1"
     },{
+    "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
+    "content": "vless://a507a376-a32b-4421-9684-d985b2a7cc71@support.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH2"
+    },{
+    "name": "Thailand 03 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://f75a7ac3-3ea3-4cfb-873a-dd9b55de1477@support.zoom.us:80?security=none&encryption=none&type=ws&host=th2.idc.kolal.my.id&path=/vless/#TRUE-2"
+    },{
+    "name": "Thailand 04 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://4ce33d10-28d3-408b-961f-09c5a10f065a@th3.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#AIS-TH3"
+    },{
+    "name": "Thailand 05 TRUE เรียนฟรี ZOOM 🎮",
+    "content": "vless://a507a376-a32b-4421-9684-d985b2a7cc71@support.zoom.us:2052?security=none&encryption=none&type=ws&host=th1.idc.kolal.my.id&path=/%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F#TRUE-ZOOM-TH2"
+    },{
+    "name": "Thailand 01 AIS PLAY 64K 🎮",
+    "content": "vless://2f5d8280-361c-4c10-a37e-98b8bf532656@45.144.167.176:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH1"
+    },{
     "name": "Thailand 02 AIS PLAY 64K 🎮",
-    "content": "vless://Koala99@th1.ddns.kolal.my.id:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH2"
+    "content": "vless://2f5d8280-361c-4c10-a37e-98b8bf532656@45.144.167.176:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH1"
     },{
     "name": "Thailand 03 AIS PLAY 64K 🎮",
-    "content": "vless://Koala99@th1.ddns.kolal.my.id:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH3"
+    "content": "vless://2f5d8280-361c-4c10-a37e-98b8bf532656@45.144.167.176:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH1"
     },{
     "name": "Thailand 04 AIS PLAY 64K  🎮",
-    "content": "vless://Koala99@th1.ddns.kolal.my.id:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH4"
+    "content": "vless://2f5d8280-361c-4c10-a37e-98b8bf532656@45.144.167.176:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH1"
     },{
     "name": "Thailand 05 AIS PLAY 64K  🎮",
-    "content": "vless://Koala99@th1.ddns.kolal.my.id:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH5"
+    "content": "vless://2f5d8280-361c-4c10-a37e-98b8bf532656@45.144.167.176:8080?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AIS-PLAY-TH1"
     }
     ]
     }
