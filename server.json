@@ -1,8 +1,8 @@
 {
-    "version": 8.1,
+    "version": 8.2,
     "message": "
 _________________________
-อัพเดทไฟล์ 8.1 แอป 443 VPN
+อัพเดทไฟล 8.2 แอป 443 VPN
 _________________________
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ᴢᴏᴏᴍ
 🚀 เพิ่ม ᴛʜ ᴀɪꜱ ᴘʟᴀʏ
@@ -13,19 +13,19 @@ _________________________
     "data": [
     {
     "name": "Thailand 01 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?encryption=none&flow=none&type=ws&host=th1.ddns.kolal.my.id&headerType=none&path=%252FJFEE999&security=none#TRUE-ZOOM-TH1"
+    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE999&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?encryption=none&flow=none&type=ws&host=th1.ddns.kolal.my.id&headerType=none&path=%252FJFEE999&security=none#TRUE-ZOOM-TH2"
+    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE999&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 03 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?encryption=none&flow=none&type=ws&host=th1.ddns.kolal.my.id&headerType=none&path=%252FJFEE999&security=none#TRUE-ZOOM-TH3"
+    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE999&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 04 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?encryption=none&flow=none&type=ws&host=th1.ddns.kolal.my.id&headerType=none&path=%252FJFEE999&security=none#TRUE-ZOOM-TH4"
+    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE999&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 05 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://Koala99@support.zoom.us:2052?encryption=none&flow=none&type=ws&host=th1.ddns.kolal.my.id&headerType=none&path=%252FJFEE999&security=none#TRUE-ZOOM-TH5"
+    "content": "vless://Koala99@support.zoom.us:2052?path=%2FJFEE999&security=none&encryption=none&host=th1.ddns.kolal.my.id&type=ws#TRUE-ZOOM-TH1"
     },{
     "name": "Thailand 01 AIS PLAY 64K 🎮",
     "content": "vless://2f5d8280-361c-4c10-a37e-98b8bf532656@45.144.167.176:8080?encryption=none&headerType=http&host=www.speedtest.net&path=%2FJFEE999&security=none&type=tcp#AIS-PLAY-TH1"
