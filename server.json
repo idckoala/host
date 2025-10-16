@@ -1,8 +1,8 @@
 {
-    "version": 8.3,
+    "version": 8.4,
     "message": "
 _________________________
-อัพเดทไฟล 8.3 แอป 443 VPN
+อัพเดทไฟล 8.4 แอป 443 VPN
 _________________________
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ᴢᴏᴏᴍ
 🚀 เพิ่ม ᴛʜ ᴀɪꜱ ᴘʟᴀʏ
@@ -13,19 +13,19 @@ _________________________
     "data": [
     {
     "name": "Thailand 01 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@support.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH1"
+    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@gomarketplacecontent-cf.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH1"
     },{
     "name": "Thailand 02 TRUE เรียนฟรี ZOOM🎮",
-    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@support.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH2"
+    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@gomarketplacecontent-cf.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH2"
     },{
     "name": "Thailand 03 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@support.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH3"
+    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@gomarketplacecontent-cf.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH3"
     },{
     "name": "Thailand 04 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@support.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH4"
+    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@gomarketplacecontent-cf.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH4"
     },{
     "name": "Thailand 05 TRUE เรียนฟรี ZOOM 🎮",
-    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@support.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH5"
+    "content": "vless://d7712849-c3c1-4199-b116-e7291094afe6@gomarketplacecontent-cf.zoom.us:2052?path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&security=none&encryption=none&host=th2.ddns.kolal.my.id&type=ws#TRUR-ZOOM-TH5"
     },{
     "name": "Thailand 01 AIS PLAY 64K 🎮",
     "content": "vless://5624dc99-09cf-472f-ac9c-32e8c9321aa7@43.229.149.46:8080?type=tcp&encryption=none&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=www.speedtest.net&headerType=http&security=none#AIS-PLAY-TH1"
