@@ -1,103 +1,124 @@
 <!DOCTYPE html>
 <html lang="th">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-    <link rel="shortcut icon" href="/img/logo.png">
-    <link rel="icon" type="image/png" href="/img/logo.png">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai&display=swap" rel="stylesheet">
-    <title>นโยบายความเป็นส่วนตัว</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            height: 100vh;
-            background: linear-gradient(135deg, #a8d8ff, #e6f4ff);
-            font-family: 'Noto Serif Thai', sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>นโยบายความเป็นส่วนตัว</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-        .card-custom {
-            background: #ffffff;
-            border: none;
-            border-radius: 20px;
-            box-shadow: 0 10px 25px rgba(0, 123, 255, 0.25);
-            width: 90%;
-            max-width: 650px;
-            overflow: hidden;
-            animation: fadeIn 0.8s ease;
-        }
+    body {
+      font-family: 'Noto Serif Thai', sans-serif;
+      background: linear-gradient(135deg, #b6e3ff, #e9f6ff);
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
 
-        .card-header-custom {
-            background-color: #007bff;
-            color: #ffffff;
-            padding: 18px;
-            text-align: center;
-            font-size: 1.7rem;
-            font-weight: bold;
-        }
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+      width: 90%;
+      max-width: 600px;
+      max-height: 90vh;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      animation: fadeIn 0.6s ease;
+    }
 
-        .card-body-custom {
-            padding: 25px 30px;
-        }
+    .card-header {
+      background-color: #0094ff;
+      color: white;
+      text-align: center;
+      padding: 16px;
+      font-size: 1.6rem;
+      font-weight: bold;
+      border-radius: 16px 16px 0 0;
+    }
 
-        .card-body-custom p,
-        .card-body-custom li {
-            font-size: 1.05rem;
-            line-height: 1.7;
-            color: #333;
-        }
+    .card-body {
+      padding: 20px;
+      color: #333;
+      line-height: 1.7;
+    }
 
-        ul {
-            margin-left: 20px;
-        }
+    .card-body ul {
+      margin-left: 25px;
+      margin-top: 10px;
+    }
 
-        .contact-info {
-            margin-top: 15px;
-            font-weight: bold;
-            color: #007bff;
-        }
+    .card-body li {
+      margin-bottom: 8px;
+    }
 
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
+    .contact-info {
+      margin-top: 15px;
+      font-weight: bold;
+      color: #0094ff;
+    }
 
-        a:hover {
-            text-decoration: underline;
-        }
+    a {
+      color: #0094ff;
+      text-decoration: none;
+    }
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-    </style>
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* เอฟเฟกต์นุ่มนวล */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* สำหรับมือถือ: ให้พอดีกับจอและอ่านง่าย */
+    @media (max-width: 600px) {
+      .card-body {
+        font-size: 0.95rem;
+        padding: 15px;
+      }
+
+      .card-header {
+        font-size: 1.3rem;
+        padding: 12px;
+      }
+    }
+  </style>
 </head>
 <body>
-    <div class="card card-custom">
-        <div class="card-header card-header-custom">
-            นโยบายความเป็นส่วนตัว
-        </div>
-        <div class="card-body card-body-custom">
-            <p>สำหรับแอปพลิเคชัน 443 VPN</p>
-            <p>แอปเราเป็นเพียงการเชื่อมต่ออินเทอร์เน็ตผ่านเซิร์ฟเวอร์ VPN และเราจะไม่เก็บข้อมูลส่วนตัวของคุณ เมื่อคุณเชื่อมต่อเซิร์ฟเวอร์ของเรา เราจะไม่เก็บข้อมูลของคุณเช่น:</p>
-            <ul>
-                <li>การรับส่งข้อมูลในเครือข่าย รวมถึง DNS</li>
-                <li>ที่อยู่ IP ของอุปกรณ์ที่เชื่อมต่อ VPN</li>
-                <li>แบนด์วิดท์ที่ผู้ใช้งานแต่ละคนใช้</li>
-                <li>ระยะเวลาการเชื่อมต่อของผู้ใช้งาน</li>
-            </ul>
-            <p>เราไม่รับประกันว่าข้อมูลของคุณจะปลอดภัยหรือไม่</p>
-            <p>เราไม่มีบริการเรียกเก็บเงินในภายหลัง หากคุณพบการเรียกเก็บเงินโปรดแจ้งทางเรา</p>
-            <p>หากคุณยอมรับ "ข้อตกลง" ของเราแล้วคุณสามารถใช้ได้ตามที่ต้องการ</p>
-            <p>443 VPN ขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</p>
-            <p>หากคุณไม่เห็นด้วยกับนโยบายของ 443 VPN ทั้งหมดหรือบางส่วน โปรดอย่าเลือกใช้บริการของเรา</p>
-            <p class="contact-info">ติดต่อเรา: <a href="mailto:goj5516@gmail.com">goj5516@gmail.com</a></p>
-        </div>
+  <div class="card">
+    <div class="card-header">นโยบายความเป็นส่วนตัว</div>
+    <div class="card-body">
+      <p>สำหรับแอปพลิเคชัน 443 VPN</p>
+      <p>แอปเราเป็นเพียงการเชื่อมต่ออินเทอร์เน็ตผ่านเซิร์ฟเวอร์ VPN และเราจะไม่เก็บข้อมูลส่วนตัวของคุณ เมื่อคุณเชื่อมต่อเซิร์ฟเวอร์ของเรา เราจะไม่เก็บข้อมูลของคุณเช่น:</p>
+      <ul>
+        <li>การรับส่งข้อมูลในเครือข่าย รวมถึง DNS</li>
+        <li>ที่อยู่ IP ของอุปกรณ์ที่เชื่อมต่อ VPN</li>
+        <li>แบนด์วิดท์ที่ผู้ใช้งานแต่ละคนใช้</li>
+        <li>ระยะเวลาการเชื่อมต่อของผู้ใช้งาน</li>
+      </ul>
+      <p>เราไม่รับประกันว่าข้อมูลของคุณจะปลอดภัยหรือไม่</p>
+      <p>เราไม่มีบริการเรียกเก็บเงินในภายหลัง หากคุณพบการเรียกเก็บเงินโปรดแจ้งทางเรา</p>
+      <p>หากคุณยอมรับ "ข้อตกลง" ของเราแล้วคุณสามารถใช้ได้ตามที่ต้องการ</p>
+      <p>443 VPN ขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</p>
+      <p>หากคุณไม่เห็นด้วยกับนโยบายของ 443 VPN ทั้งหมดหรือบางส่วน โปรดอย่าเลือกใช้บริการของเรา</p>
+      <p class="contact-info">ติดต่อเรา: <a href="mailto:goj5516@gmail.com">goj5516@gmail.com</a></p>
     </div>
+  </div>
 </body>
 </html>
